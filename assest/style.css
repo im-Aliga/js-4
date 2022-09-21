@@ -1,0 +1,24 @@
+section .dog img {
+  width: 70%;
+}
+section .dog form {
+  margin-top: 45px;
+}
+section .dog button {
+  margin-top: 20px;
+}
+section .cat img {
+  width: 70%;
+}
+section .cat form {
+  margin-top: 45px;
+}
+section .cat button {
+  margin-top: 20px;
+}
+section .bird img {
+  width: 74%;
+}
+section .bird button {
+  margin-top: 20px;
+}/*# sourceMappingURL=style.css.map */
